@@ -1,2 +1,2 @@
 # TirsaStoreWebApp_Front
-Aplicacion web fornt-end para TirsaTec
+Aplicacion web front-end para TirsaTec
